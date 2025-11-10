@@ -40,3 +40,4 @@ Yellowhammer benchmark is released under the MIT License. See [LICENSE](LICENSE)
 ## Contributors
 
 - [Régis OUVRARD](https://www.lias-lab.fr/members/regisouvrard/), LIAS, University of Poitiers, France
+- [Thierry POINOT](https://www.lias-lab.fr/members/thierrypoinot/), LIAS, University of Poitiers, France
