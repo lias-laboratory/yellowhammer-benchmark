@@ -33,7 +33,7 @@ Link to download files: [explicative_variables.zip](https://forge.lias-lab.fr/da
 
 Programmes in Matlab, Python, and R for easy use
 
-## Licence
+## License
 
 Yellowhammer benchmark is released under the MIT License. See [LICENSE](LICENSE) for more information.
 
