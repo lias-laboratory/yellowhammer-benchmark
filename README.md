@@ -1,4 +1,4 @@
-# This is the Yellowhammer benchmark
+# The Yellowhammer benchmark
 
 PLEASE NOTE: this benchmark is currently under development. Please feel free to reload the data to get the latest version.
 
