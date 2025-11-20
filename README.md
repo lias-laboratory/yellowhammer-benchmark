@@ -2,6 +2,10 @@
 
 PLEASE NOTE: this benchmark is currently under development. Please feel free to reload the data to get the latest version.
 
+Abstract: We believe that system identification has strong potential to provide support for decision-making tools in the fight against biodiversity loss. To stimulate collaboration between the System Identification, Ecological Modelling, and Biostatistics communities, we propose to provide ready-to-use data with ‘long’ series and dynamics in time and space, and to mobilise a group of researchers from these communities. As a foundation for this collaboration, we are making available a benchmark dataset focused on a bird species whose population is affected by agricultural practices and climate change, a real dataset provided by the national French Breeding Bird Survey (Jiguet et al., 2012). To address this issue, biostatisticians employ statistical models (e.g., GLM or GAM), deterministic models (ODE, PDE) or machine learning methods (MaxEnt, Random Forest). If you work with these tools, biostatisticians, ecologists or specialists in data-driven modelling, we invite you to test your models and methodologies on this dataset, and contribute to a better understanding of how global change affects wildlife populations. The medium-term objectives are to understand the issues involved in ecological modelling, share tools and methodologies, compare models and algorithms on the same dataset, and provide new tools to decision-makers so that they can take biodiversity into account in public policy.
+
+Jiguet, F., Devictor, V., Julliard, R., Couvet, D., October 2012. French citizens monitoring ordinary birds provide tools for conservation and ecological sciences. Acta Oecologica 44, 58–66.
+
 ## Complete dataset
 
 You have access to a CSV file, [Yellowhammer_Clim_Bioclim_CLC_2002_2024.csv](https://forge.lias-lab.fr/datasets/yellowhammer-benchmark/Yellowhammer_Clim_Bioclim_CLC_2002_2024.csv.zip), containing 22,641 counting data entries with the year of observation, location, climatic, bioclimatic and habitat variables.
