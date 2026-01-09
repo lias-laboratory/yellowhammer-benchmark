@@ -2,7 +2,7 @@
 
 PLEASE NOTE: this benchmark is currently under development. Please feel free to reload the data to get the latest version.
 
-Abstract: We believe that system identification has strong potential to provide support for decision-making tools in the fight against biodiversity loss. To stimulate collaboration between the System Identification, Ecological Modelling, and Biostatistics communities, we propose to provide ready-to-use data with ‘long’ series and dynamics in time and space, and to mobilise a group of researchers from these communities. As a foundation for this collaboration, we are making available a benchmark dataset focused on a bird species whose population is affected by agricultural practices and climate change, a real dataset provided by the national French Breeding Bird Survey (Jiguet et al., 2012). To address this issue, biostatisticians employ statistical models (e.g., GLM or GAM), deterministic models (ODE, PDE) or machine learning methods (MaxEnt, Random Forest). If you work with these tools, biostatisticians, ecologists or specialists in data-driven modelling, we invite you to test your models and methodologies on this dataset, and contribute to a better understanding of how global change affects wildlife populations. The medium-term objectives are to understand the issues involved in ecological modelling, share tools and methodologies, compare models and algorithms on the same dataset, and provide new tools to decision-makers so that they can take biodiversity into account in public policy.
+Abstract: We believe that system identification has strong potential to provide support for decision-making tools in the fight against biodiversity loss. To stimulate collaboration between the System Identification, Ecological Modelling, and Biostatistics communities, we propose to provide ready-to-use data with ‘long’ series and dynamics in time and space, and to mobilise a group of researchers from these communities with the aim of discussing our tools, methodologies, barriers and issues. As a foundation for this collaboration, we are making available a benchmark dataset focused on a bird species whose population is affected by agricultural practices and climate change, a real dataset provided by the national French Breeding Bird Survey (Jiguet et al., 2012). To understand and predict the impacts on the population dynamics of this bird, the Yellowhammer, scientists employ phenomenological models (e.g., GLM, GAM, Neural Networks or Random Forest) or deterministic models (difference equation, integro-differential equation, ODE, PDE). If you work with these applications, biostatisticians, ecologists or specialists in data-driven modelling, we invite you to test your models and methodologies on this dataset, and contribute to a better understanding of the influence of global change on wildlife populations. Based on discussions around this benchmark, the medium-term objectives are to understand the difficulties associated with ecological modelling, share tools and methodologies, compare models and algorithms on the same dataset, and provide new tools to decision-makers so that they can take biodiversity into account in public policy.
 
 Jiguet, F., Devictor, V., Julliard, R., Couvet, D., October 2012. French citizens monitoring ordinary birds provide tools for conservation and ecological sciences. Acta Oecologica 44, 58–66.
 
@@ -30,9 +30,13 @@ Link to download files: [explicative_variables.zip](https://forge.lias-lab.fr/da
 
 ## Some programs
 
-Under development! 
+The Yellowhammer benchmark is described in a paper submitted to Control Engineering Practice:
+> A. Alassani, R. Ouvrard, T. Poinot, O. Martin, A. Besnard, O. Gimenez, W. Thuiller, J. Garnier, F. Jiguet & B. Fontaine, 2026. Bridging System Identification, Ecological Modelling and Biostatistics 
+communities: Collaborating to improve population dynamics models through benchmark dataset validation.
 
-You have access to some programs in Matlab, Python, and R to facilitate the use and processing of data sets.
+An application for estimating GLM, GAM and Random Forest models is provided for Baseline and preliminary result. The R routines used to estimate these models can be downloaded HERE.
+
+Under development! You have access to some programs in Matlab, Python, and R to facilitate the use and processing of data sets.
 
 ## License
 
