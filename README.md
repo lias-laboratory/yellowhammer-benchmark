@@ -30,9 +30,8 @@ Link to download files: [explicative_variables.zip](https://forge.lias-lab.fr/da
 
 ## Some programs
 
-The Yellowhammer benchmark is described in a paper submitted to Control Engineering Practice:
-> A. Alassani, R. Ouvrard, T. Poinot, O. Martin, A. Besnard, O. Gimenez, W. Thuiller, J. Garnier, F. Jiguet & B. Fontaine, 2026. Bridging System Identification, Ecological Modelling and Biostatistics 
-communities: Collaborating to improve population dynamics models through benchmark dataset validation.
+The Yellowhammer benchmark is described in an internal report:
+> Alassani A., Ouvrard R., Poinot T., Martin O., 2026. Yellowhammer benchmark presentation.
 
 An application for estimating GLM, GAM and Random Forest models is provided for Baseline and preliminary result. The R routines used to estimate these models can be downloaded HERE.
 
