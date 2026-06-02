@@ -31,11 +31,11 @@ Link to download files: [explicative_variables.zip](https://forge.lias-lab.fr/da
 ## Some programs
 
 The Yellowhammer benchmark is described in an internal report:
-> Alassani A., Ouvrard R., Poinot T., Martin O., 2026. Yellowhammer benchmark presentation.
+> [Alassani A., Ouvrard R., Poinot T., Martin O., 2026. Yellowhammer benchmark presentation](files/benchmark_dataset_lias_Internal_report.pdf)
 
-An application for estimating GLM, GAM and Random Forest models is provided for Baseline and preliminary result. The R routines used to estimate these models can be downloaded HERE.
+An application for estimating GLM, GAM and Random Forest models is provided for Baseline and preliminary result. The R routines used to estimate these models can be downloaded [HERE](R_src/).
 
-Under development! You have access to some programs in Matlab, Python, and R to facilitate the use and processing of data sets.
+Under development! You have access to some programs in [Matlab](Matlab_src/), Python, and R to facilitate the use and processing of data sets.
 
 ## License
 
