@@ -6,6 +6,9 @@ Abstract: We believe that system identification has strong potential to provide 
 
 Jiguet, F., Devictor, V., Julliard, R., Couvet, D., October 2012. French citizens monitoring ordinary birds provide tools for conservation and ecological sciences. Acta Oecologica 44, 58–66.
 
+More information on the context:
+> [Alassani A., Ouvrard R., Poinot T., Martin O., Besnard A., Gimenez O., Thuiller W., Garnier J., Jiguet F., Fontaine B., 2026. Yellowhammer benchmark presentation](files/benchmark_dataset_lias_Internal_report.pdf)
+
 ## Complete dataset
 
 You have access to a CSV file, [Yellowhammer_Clim_Bioclim_CLC_2002_2024.csv](https://forge.lias-lab.fr/datasets/yellowhammer-benchmark/Yellowhammer_Clim_Bioclim_CLC_2002_2024.csv.zip), containing 22,641 counting data entries with the year of observation, location, climatic, bioclimatic and habitat variables.
